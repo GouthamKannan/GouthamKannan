@@ -2,7 +2,7 @@
 
 My name is Goutham Kannan. I'm currently working at Tata Consultancy Services as a system engineer. I like to apply my passion for developing products with modern JavaScript and ASP.NET frameworks.
 
-You can find me on LinkedIn <a href="https://www.linkedin.com/in/goutham-kannan/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>.
+You can find me on LinkedIn <a href="https://www.linkedin.com/in/goutham-kannan/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>. 
 
 Portfolio - https://goutham-kannan.netlify.app/
 
