@@ -28,7 +28,9 @@ Portfolio - https://goutham-kannan.netlify.app/
 
 ## 🌱 My latest projects
 
-- Ticket Management System: [GouthamKannan/ticket_management_frontend](https://github.com/GouthamKannan/ticket_management_frontend)
+- Ticket Management System: 
+  - ASP.NET : [GouthamKannan/ticket_management_asp.net_frontend](https://github.com/GouthamKannan/ticket_management_asp.net_frontend)
+  - MERN Stack : [GouthamKannan/ticket_management_frontend](https://github.com/GouthamKannan/ticket_management_frontend)
 - Book Store Application: [GouthamKannan/Book-store-frontend](https://github.com/GouthamKannan/Book-store-frontend)
 - Group chat application: [GouthamKannan/Chat_app_frontend](https://github.com/GouthamKannan/Chat_app_frontend)
 - To-Do Application: [GouthamKannan/to_do_app_frontend](https://github.com/GouthamKannan/to_do_app_frontend)
