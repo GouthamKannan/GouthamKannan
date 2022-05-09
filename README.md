@@ -20,6 +20,7 @@ Portfolio - https://goutham-kannan.netlify.app/
 ![](https://img.shields.io/badge/Code-ASP.NET-informational?style=flat&logo=dotnet&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-ASP.NET%20MVC-informational?style=flat&logo=dotnet&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-ASP.NET%20Web%20API-informational?style=flat&logo=dotnet&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Entity%20Framework-informational?style=flat&logo=dotnet&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQL%20Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GIT-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Visual%20Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
